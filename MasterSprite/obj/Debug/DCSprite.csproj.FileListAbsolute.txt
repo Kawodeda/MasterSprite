@@ -1,0 +1,10 @@
+D:\DCSprite\DCSprite\obj\Debug\DCSprite.csproj.GenerateResource.cache
+D:\DCSprite\DCSprite\obj\Debug\DCSprite.csproj.CoreCompileInputs.cache
+D:\DCSprite\DCSprite\bin\Debug\MasterSprite.exe.config
+D:\DCSprite\DCSprite\bin\Debug\MasterSprite.exe
+D:\DCSprite\DCSprite\bin\Debug\MasterSprite.pdb
+D:\DCSprite\DCSprite\obj\Debug\MasterSprite.Properties.Resources.resources
+D:\DCSprite\DCSprite\obj\Debug\MasterSprite.exe
+D:\DCSprite\DCSprite\obj\Debug\MasterSprite.pdb
+D:\DCSprite\DCSprite\obj\Debug\DCSprite.csprojAssemblyReference.cache
+D:\DCSprite\DCSprite\obj\Debug\MasterSprite.mainFrm.resources
